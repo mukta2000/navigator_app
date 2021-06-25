@@ -1,4 +1,5 @@
-# navigator_app Android Club Assignment 2.
+# navigator_app 
+Android Club Assignment 2.
 
 
 ![image](https://user-images.githubusercontent.com/64188419/117864969-05bb8e80-b2b3-11eb-82e4-1fb5c50a9cae.png)
